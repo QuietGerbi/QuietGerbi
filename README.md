@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Alexey | DevOps | Java dev</div>  
+### <div align="center">Hi! I'm Alexey | DevOps | Java dev</div>  
   
 
 - ⚒️My main project is MoneyMonitor: https://github.com/QuietGerbi/MoneyMonitor  
