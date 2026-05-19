@@ -1,11 +1,4 @@
-### <div align="center">Hi! I'm Alexey | DevOps | Java dev</div>  
-  
-
-- ⚒️My main project is MoneyMonitor: https://github.com/QuietGerbi/MoneyMonitor  
-  
-
-- 🌱 I continue learning Docker, Docker compose, Nginx  
-  
+### <div align="center">Hi! I'm Alexey | Java dev</div>  
 
 <br/>  
 
